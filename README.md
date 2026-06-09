@@ -56,10 +56,10 @@ Pilotage CRM 360/
 │   ├── sales_teams.csv
 │   └── data_dictionary.csv
 │
-├── powerbi/
+├── power bi/
 │   └── pilotage_crm_360.pbix
 │
-├── captures_ecran/
+├── capture_ecran/
 │   ├── 01_vue_executive.png
 │   ├── 02_analyse_commerciale.png
 │   └── 03_clients_produits.png
@@ -67,7 +67,7 @@ Pilotage CRM 360/
 ├── documentation/
 │   └── insights_business.md
 │
-├── assets/
+├── Assets/
 │   ├── crm360_logo.png
 │   └── CRM360_Harmonie_B2B.json
 │
